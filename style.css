@@ -158,64 +158,64 @@ margin-top: 25px;
    .image2{
     float: right;
     height: 600px;
-    width: 550px;
+   
    margin-top: 50px;
    }
    .image3{
     float: right;
     height: 500px;
-    width: 450px;
+   
    margin-top: 50px;
    }
    .image4{
     float: bottom;
     height: 330px;
-    width: 370px;
-    margin-left: 40px;
+   
+    padding: 0px;
     margin-top: 34px;
 
    }
    .image5{
     float: right;
     height: 580px;
-    width: 490px;
+   
    margin-top: -300px;
    margin-left: 100px;
    }
    .image6{
     float: left;
     height: 580px;
-    width: 700px;
+   
    margin-top: 80px;
    margin-left: 40px;
    }
    .image7{
     float: right;
     height: 580px;
-    width: 550px;
+   
    margin-top: -290px;
    margin-left: 100px;
    }
    .image8{
     float: left;
     height: 250px;
-    width: 300px;
+   
     margin-left: 80px;
    }
    .image9{
     height: 250px;
-    width: 300px;
+   
     margin-left: 50px;
    }
    .image10{
     height: 250px;
-    width: 300px;
+   
     margin-left: 725px;
     margin-top: -495px;
    }
    .image11{
     height: 250px;
-    width: 300px;
+  
     margin-left: 1025px;
     margin-top: -490px;
    }
@@ -248,7 +248,7 @@ width: 1100px;
 margin-left: 120px;
 
 background-color: white;
-
+border: solid #ccc;
 box-shadow: 7px 7px #ccc;
 }
 .container4{
